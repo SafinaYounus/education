@@ -1,0 +1,16 @@
+body{
+    background-image:url(EDU_767x431_DSC_1162.jpg)
+}
+header{
+    background-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+padding: 10PX;   
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+button{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    background-color: blue;
+}
